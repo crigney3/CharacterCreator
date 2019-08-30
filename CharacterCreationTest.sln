@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCreationTest", "CharacterCreationTest\CharacterCreationTest.csproj", "{FF55B815-3563-432F-9A0E-A4FBA1CA500B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF55B815-3563-432F-9A0E-A4FBA1CA500B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FF55B815-3563-432F-9A0E-A4FBA1CA500B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FF55B815-3563-432F-9A0E-A4FBA1CA500B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FF55B815-3563-432F-9A0E-A4FBA1CA500B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
